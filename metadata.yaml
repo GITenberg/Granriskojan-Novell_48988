@@ -1,4 +1,8 @@
 _repo: Granriskojan-Novell_48988
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48988-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Ingelius, Axel Gabriel
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45080
     wikipedia: http://fi.wikipedia.org/wiki/Axel_Gabriel_Ingelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48988#Granriskojan-Novell
 gutenberg_issued: '2015-05-18'
 gutenberg_type: Text
 identifiers:
